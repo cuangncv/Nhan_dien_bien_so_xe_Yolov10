@@ -1,0 +1,13 @@
+# ❌ File tạm Python
+__pycache__/
+*.pyc
+
+# ❌ Thư mục của PyCharm
+.idea/
+
+# ❌ Thư mục môi trường ảo (nếu dùng)
+.venv/
+env/
+
+# ❌ Log file, hệ thống
+*.log
