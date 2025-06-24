@@ -1,0 +1,6 @@
+Pillow
+opencv-python
+mysql-connector-python
+tkcalendar
+paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
+paddleocr
